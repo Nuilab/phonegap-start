@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+	id		= "com.claire.chaitaigner"
+	version 	= "0.0.1">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>L'armoire de Claire</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Une application destinée à prendre les contacts de potentiels clients.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="https://github.com/Nuilab/"
+		email="adrien.nuilab@gmail.com">
+		Adrien Long
 	</author>
 
-	<icon src="icon.png" gap:role="default" />
+	<icon src="logo.png" gap:role="default" />
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
